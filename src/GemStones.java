@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
+//This is a comment I'm using to create a second version on github
 public class GemStones {
 
 	public static void main(String args[]) {
